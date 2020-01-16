@@ -11,11 +11,13 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
-  title: Spectral
+  subtitle: >-
+    ![pizza](/images/téléchargement.jpeg "pizza")
+
+
+    Avec Rock'n Roll Snack, faites-vous plaisir simplement, avec des plats
+    simples et bons, en livraison ou en commande à emporter.
+  title: Rock'n Roll Snack
 sections:
   - background_style: style2
     component: icons.html
