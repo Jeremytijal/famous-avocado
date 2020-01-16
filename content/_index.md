@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 banner:
   actions:
     - is_primary: true
@@ -12,9 +12,6 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: >-
-    ![pizza](/images/téléchargement.jpeg "pizza")
-
-
     Avec Rock'n Roll Snack, faites-vous plaisir simplement, avec des plats
     simples et bons, en livraison ou en commande à emporter.
   title: Rock'n Roll Snack
