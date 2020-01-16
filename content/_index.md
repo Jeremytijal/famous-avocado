@@ -16,7 +16,7 @@ banner:
     simples et bons, en livraison ou en commande à emporter.
   title: Rock'n Roll Snac
 sections:
-  - background_style: style2
+  - background_style: style3
     component: icons.html
     feature_icons:
       - icon: fa-pizza-slice
