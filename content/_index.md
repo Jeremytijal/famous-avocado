@@ -14,7 +14,7 @@ banner:
   subtitle: >-
     Avec Rock'n Roll Snack, faites-vous plaisir simplement, avec des plats
     simples et bons, en livraison ou en commande à emporter.
-  title: Rock'n Roll Snack
+  title: Rock'n Roll Snac
 sections:
   - background_style: style2
     component: icons.html
